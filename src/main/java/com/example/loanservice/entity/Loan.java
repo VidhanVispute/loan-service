@@ -21,4 +21,6 @@ public class Loan {
 
     @Positive
     private Double amount;
+
+    private Double interestRate;
 }
